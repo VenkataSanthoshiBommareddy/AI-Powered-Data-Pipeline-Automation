@@ -1,0 +1,9 @@
+transaction_id,industry,region,transaction_amount,customer_count,status
+10001,Retail,North,2500,3,Completed
+10002,Healthcare,South,5400,8,Completed
+10003,Technology,West,3200,5,Pending
+10004,Finance,East,7200,10,Completed
+10005,Retail,North,1800,2,Cancelled
+10006,Technology,West,4600,6,Completed
+10007,Healthcare,South,6100,7,Completed
+10008,Finance,East,3900,4,Pending
